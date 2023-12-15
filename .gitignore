@@ -6,3 +6,4 @@ gpu*
 *.sh
 toy_tasks/
 *.npy
+venv_l2hmc/

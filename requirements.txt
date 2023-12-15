@@ -1,0 +1,4 @@
+tensorflow==1.15.5
+scipy==1.7.3
+numpy==1.18.5
+matplotlib==3.5.3
