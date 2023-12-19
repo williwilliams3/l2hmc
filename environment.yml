@@ -6,7 +6,9 @@ dependencies:
   - python=3.7
   - pip
   - tensorflow==1.15
+  - pip:
+    - tensorflow-estimator==1.15.1
   - scipy
-  - numpy
+  - numpy==1.19.5
   - matplotlib
   - ipykernel
